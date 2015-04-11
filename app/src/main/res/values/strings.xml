@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hello World</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_hello_world">A hello new world!</string>
+    <string name="edit_message">This is also a hint!</string>
+    <string name="title_activity_display_message">Display Message</string>
+</resources>
